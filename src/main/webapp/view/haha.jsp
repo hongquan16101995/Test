@@ -11,6 +11,10 @@
     <title>Title</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h2>abc</h2>
+=======
+<h1>đào tạo</h1>
+>>>>>>> 5fc5321626be2ca6bb113777dd12ee4dfbda8a26
 </body>
 </html>
